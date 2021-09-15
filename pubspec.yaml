@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  riverpod: ^0.12.4
+  flutter_riverpod: ^0.12.4
   dio: ^3.0.10
   get_it: ^5.0.6
 
